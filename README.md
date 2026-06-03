@@ -37,7 +37,7 @@ mini-batch training, and performance evaluation with R² score.
 git clone https://github.com/Tayhan87/linear-regression-from-scratch
 cd linear-regression-from-scratch
 pip install -r requirements.txt
-jupyter notebook linear_regression.ipynb
+jupyter notebook linear-regression.ipynb
 ```
 
 ## Tech stack
